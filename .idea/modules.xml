@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NumberFile.iml" filepath="$PROJECT_DIR$/NumberFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadFileSumData.iml" filepath="$PROJECT_DIR$/ReadFileSumData.iml" />
     </modules>
   </component>
 </project>
